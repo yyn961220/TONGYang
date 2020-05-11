@@ -1,0 +1,5 @@
+"Goods_Id"	"Goods_Name"	"manufacturer"	"birthday"	"potency"
+"002"		"Baishi"	"2020/4/11"	"1"
+"003"	"chips"	"Leshi"	"2020/5/11"	"2"
+"008"	"milk"	"mm"	"2020/5/11"	"1"
+"123"	"kaoc"	"tony"	"1999/2/5"	"2"
